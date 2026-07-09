@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "mx0vPVy99gg=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Jaydee Venter\\Software Testing Simulation Project (WIL)\\BankCoreSolution\\BankCore.Tests.xUnit\\BankCore.Tests.xUnit.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jaydee Venter\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
+    "C:\\Users\\Jaydee Venter\\.nuget\\packages\\coverlet.collector\\10.0.1\\coverlet.collector.10.0.1.nupkg.sha512",
+    "C:\\Users\\Jaydee Venter\\.nuget\\packages\\fluentassertions\\8.10.0\\fluentassertions.8.10.0.nupkg.sha512",
+    "C:\\Users\\Jaydee Venter\\.nuget\\packages\\microsoft.codecoverage\\18.7.0\\microsoft.codecoverage.18.7.0.nupkg.sha512",
+    "C:\\Users\\Jaydee Venter\\.nuget\\packages\\microsoft.net.test.sdk\\18.7.0\\microsoft.net.test.sdk.18.7.0.nupkg.sha512",
+    "C:\\Users\\Jaydee Venter\\.nuget\\packages\\microsoft.testplatform.objectmodel\\18.7.0\\microsoft.testplatform.objectmodel.18.7.0.nupkg.sha512",
+    "C:\\Users\\Jaydee Venter\\.nuget\\packages\\microsoft.testplatform.testhost\\18.7.0\\microsoft.testplatform.testhost.18.7.0.nupkg.sha512",
+    "C:\\Users\\Jaydee Venter\\.nuget\\packages\\moq\\4.20.72\\moq.4.20.72.nupkg.sha512",
+    "C:\\Users\\Jaydee Venter\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\Jaydee Venter\\.nuget\\packages\\system.diagnostics.eventlog\\6.0.0\\system.diagnostics.eventlog.6.0.0.nupkg.sha512",
+    "C:\\Users\\Jaydee Venter\\.nuget\\packages\\xunit\\2.9.3\\xunit.2.9.3.nupkg.sha512",
+    "C:\\Users\\Jaydee Venter\\.nuget\\packages\\xunit.abstractions\\2.0.3\\xunit.abstractions.2.0.3.nupkg.sha512",
+    "C:\\Users\\Jaydee Venter\\.nuget\\packages\\xunit.analyzers\\1.18.0\\xunit.analyzers.1.18.0.nupkg.sha512",
+    "C:\\Users\\Jaydee Venter\\.nuget\\packages\\xunit.assert\\2.9.3\\xunit.assert.2.9.3.nupkg.sha512",
+    "C:\\Users\\Jaydee Venter\\.nuget\\packages\\xunit.core\\2.9.3\\xunit.core.2.9.3.nupkg.sha512",
+    "C:\\Users\\Jaydee Venter\\.nuget\\packages\\xunit.extensibility.core\\2.9.3\\xunit.extensibility.core.2.9.3.nupkg.sha512",
+    "C:\\Users\\Jaydee Venter\\.nuget\\packages\\xunit.extensibility.execution\\2.9.3\\xunit.extensibility.execution.2.9.3.nupkg.sha512",
+    "C:\\Users\\Jaydee Venter\\.nuget\\packages\\xunit.runner.visualstudio\\2.5.3\\xunit.runner.visualstudio.2.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}
