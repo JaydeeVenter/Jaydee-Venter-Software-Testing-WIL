@@ -1,0 +1,11 @@
+C:\Users\Jaydee Venter\Software Testing Simulation Project (WIL)\BankCoreSolution\BankCore.Core\bin\Debug\net8.0\BankCore.Core.deps.json
+C:\Users\Jaydee Venter\Software Testing Simulation Project (WIL)\BankCoreSolution\BankCore.Core\bin\Debug\net8.0\BankCore.Core.dll
+C:\Users\Jaydee Venter\Software Testing Simulation Project (WIL)\BankCoreSolution\BankCore.Core\bin\Debug\net8.0\BankCore.Core.pdb
+C:\Users\Jaydee Venter\Software Testing Simulation Project (WIL)\BankCoreSolution\BankCore.Core\obj\Debug\net8.0\BankCore.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jaydee Venter\Software Testing Simulation Project (WIL)\BankCoreSolution\BankCore.Core\obj\Debug\net8.0\BankCore.Core.AssemblyInfoInputs.cache
+C:\Users\Jaydee Venter\Software Testing Simulation Project (WIL)\BankCoreSolution\BankCore.Core\obj\Debug\net8.0\BankCore.Core.AssemblyInfo.cs
+C:\Users\Jaydee Venter\Software Testing Simulation Project (WIL)\BankCoreSolution\BankCore.Core\obj\Debug\net8.0\BankCore.Core.csproj.CoreCompileInputs.cache
+C:\Users\Jaydee Venter\Software Testing Simulation Project (WIL)\BankCoreSolution\BankCore.Core\obj\Debug\net8.0\BankCore.Core.dll
+C:\Users\Jaydee Venter\Software Testing Simulation Project (WIL)\BankCoreSolution\BankCore.Core\obj\Debug\net8.0\refint\BankCore.Core.dll
+C:\Users\Jaydee Venter\Software Testing Simulation Project (WIL)\BankCoreSolution\BankCore.Core\obj\Debug\net8.0\BankCore.Core.pdb
+C:\Users\Jaydee Venter\Software Testing Simulation Project (WIL)\BankCoreSolution\BankCore.Core\obj\Debug\net8.0\ref\BankCore.Core.dll

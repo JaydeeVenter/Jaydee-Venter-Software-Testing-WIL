@@ -1,0 +1,15 @@
+C:\Users\Jaydee Venter\Software Testing Simulation Project (WIL)\BankCoreSolution\BankCore.Data\bin\Debug\net8.0\BankCore.Data.deps.json
+C:\Users\Jaydee Venter\Software Testing Simulation Project (WIL)\BankCoreSolution\BankCore.Data\bin\Debug\net8.0\BankCore.Data.dll
+C:\Users\Jaydee Venter\Software Testing Simulation Project (WIL)\BankCoreSolution\BankCore.Data\bin\Debug\net8.0\BankCore.Data.pdb
+C:\Users\Jaydee Venter\Software Testing Simulation Project (WIL)\BankCoreSolution\BankCore.Data\bin\Debug\net8.0\BankCore.Core.dll
+C:\Users\Jaydee Venter\Software Testing Simulation Project (WIL)\BankCoreSolution\BankCore.Data\bin\Debug\net8.0\BankCore.Core.pdb
+C:\Users\Jaydee Venter\Software Testing Simulation Project (WIL)\BankCoreSolution\BankCore.Data\obj\Debug\net8.0\BankCore.Data.csproj.AssemblyReference.cache
+C:\Users\Jaydee Venter\Software Testing Simulation Project (WIL)\BankCoreSolution\BankCore.Data\obj\Debug\net8.0\BankCore.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jaydee Venter\Software Testing Simulation Project (WIL)\BankCoreSolution\BankCore.Data\obj\Debug\net8.0\BankCore.Data.AssemblyInfoInputs.cache
+C:\Users\Jaydee Venter\Software Testing Simulation Project (WIL)\BankCoreSolution\BankCore.Data\obj\Debug\net8.0\BankCore.Data.AssemblyInfo.cs
+C:\Users\Jaydee Venter\Software Testing Simulation Project (WIL)\BankCoreSolution\BankCore.Data\obj\Debug\net8.0\BankCore.Data.csproj.CoreCompileInputs.cache
+C:\Users\Jaydee Venter\Software Testing Simulation Project (WIL)\BankCoreSolution\BankCore.Data\obj\Debug\net8.0\BankCore.D44B1CE2.Up2Date
+C:\Users\Jaydee Venter\Software Testing Simulation Project (WIL)\BankCoreSolution\BankCore.Data\obj\Debug\net8.0\BankCore.Data.dll
+C:\Users\Jaydee Venter\Software Testing Simulation Project (WIL)\BankCoreSolution\BankCore.Data\obj\Debug\net8.0\refint\BankCore.Data.dll
+C:\Users\Jaydee Venter\Software Testing Simulation Project (WIL)\BankCoreSolution\BankCore.Data\obj\Debug\net8.0\BankCore.Data.pdb
+C:\Users\Jaydee Venter\Software Testing Simulation Project (WIL)\BankCoreSolution\BankCore.Data\obj\Debug\net8.0\ref\BankCore.Data.dll
