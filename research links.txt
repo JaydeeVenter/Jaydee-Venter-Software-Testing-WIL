@@ -1,0 +1,15 @@
+=== PHASE 1 ===
+
+https://www.ecs.csun.edu/~rlingard/comp480/TestPlanTemplate.pdf
+https://reqtest.com/en/knowledgebase/how-to-write-a-test-plan-2/
+
+=== PHASE 2 ===
+
+
+=== PHASE 3 ===
+
+
+=== PHASE 4 ===
+
+
+=== PHASE 5 ===
