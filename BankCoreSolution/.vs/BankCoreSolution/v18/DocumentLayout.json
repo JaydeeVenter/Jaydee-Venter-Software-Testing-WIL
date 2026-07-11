@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Jaydee Venter\\Software Testing Simulation Project (WIL)\\BankCoreSolution\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A1B2C3D4-0001-0001-0001-000000000001}|BankCore.Core\\BankCore.Core.csproj|c:\\users\\jaydee venter\\software testing simulation project (wil)\\bankcoresolution\\bankcore.core\\services\\loanservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1B2C3D4-0001-0001-0001-000000000001}|BankCore.Core\\BankCore.Core.csproj|solutionrelative:bankcore.core\\services\\loanservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A1B2C3D4-0002-0002-0002-000000000002}|BankCore.Data\\BankCore.Data.csproj|c:\\users\\jaydee venter\\software testing simulation project (wil)\\bankcoresolution\\bankcore.data\\seed\\dataseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1B2C3D4-0002-0002-0002-000000000002}|BankCore.Data\\BankCore.Data.csproj|solutionrelative:bankcore.data\\seed\\dataseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BED9FB6E-DD53-40D4-9292-C91EDC8A9912}|BankCore.Tests.NUnit\\BankCore.Tests.NUnit.csproj|c:\\users\\jaydee venter\\software testing simulation project (wil)\\bankcoresolution\\bankcore.tests.nunit\\transactionenginenunittests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BED9FB6E-DD53-40D4-9292-C91EDC8A9912}|BankCore.Tests.NUnit\\BankCore.Tests.NUnit.csproj|solutionrelative:bankcore.tests.nunit\\transactionenginenunittests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,27 +23,15 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "LoanService.cs",
-              "DocumentMoniker": "C:\\Users\\Jaydee Venter\\Software Testing Simulation Project (WIL)\\BankCoreSolution\\BankCore.Core\\Services\\LoanService.cs",
-              "RelativeDocumentMoniker": "BankCore.Core\\Services\\LoanService.cs",
-              "ToolTip": "C:\\Users\\Jaydee Venter\\Software Testing Simulation Project (WIL)\\BankCoreSolution\\BankCore.Core\\Services\\LoanService.cs",
-              "RelativeToolTip": "BankCore.Core\\Services\\LoanService.cs",
-              "ViewState": "AgIAALQAAAAAAAAAAAAmwKoAAAAfAAAAAAAAAA==",
+              "Title": "TransactionEngineNUnitTests.cs",
+              "DocumentMoniker": "C:\\Users\\Jaydee Venter\\Software Testing Simulation Project (WIL)\\BankCoreSolution\\BankCore.Tests.NUnit\\TransactionEngineNUnitTests.cs",
+              "RelativeDocumentMoniker": "BankCore.Tests.NUnit\\TransactionEngineNUnitTests.cs",
+              "ToolTip": "C:\\Users\\Jaydee Venter\\Software Testing Simulation Project (WIL)\\BankCoreSolution\\BankCore.Tests.NUnit\\TransactionEngineNUnitTests.cs",
+              "RelativeToolTip": "BankCore.Tests.NUnit\\TransactionEngineNUnitTests.cs",
+              "ViewState": "AgIAAEwDAAAAAAAAAAAAAHMDAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-07T14:21:41.793Z",
+              "WhenOpened": "2026-07-11T15:44:02.593Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "DataSeeder.cs",
-              "DocumentMoniker": "C:\\Users\\Jaydee Venter\\Software Testing Simulation Project (WIL)\\BankCoreSolution\\BankCore.Data\\Seed\\DataSeeder.cs",
-              "RelativeDocumentMoniker": "BankCore.Data\\Seed\\DataSeeder.cs",
-              "ToolTip": "C:\\Users\\Jaydee Venter\\Software Testing Simulation Project (WIL)\\BankCoreSolution\\BankCore.Data\\Seed\\DataSeeder.cs",
-              "RelativeToolTip": "BankCore.Data\\Seed\\DataSeeder.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAowDYAAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-07T13:56:16.305Z"
             }
           ]
         }

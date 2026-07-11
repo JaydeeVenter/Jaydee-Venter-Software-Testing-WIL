@@ -2,14 +2,31 @@
 
 https://www.ecs.csun.edu/~rlingard/comp480/TestPlanTemplate.pdf
 https://reqtest.com/en/knowledgebase/how-to-write-a-test-plan-2/
+https://www.geeksforgeeks.org/software-testing/test-plan-software-testing/
+https://www.professionalqa.com/test-design-specification
+https://www.geeksforgeeks.org/software-testing/test-case-specification/
+https://www.tricentis.com/learn/test-summary-report
 
 === PHASE 2 ===
 
+https://project-management.com/requirements-traceability-matrix-rtm/
+https://www.geeksforgeeks.org/software-testing/requirement-traceability-matrix/
+https://www.jamasoftware.com/requirements-management-guide/requirements-traceability/bidirectional-traceability/
 
 === PHASE 3 ===
-
+https://www.fe.training/free-resources/lbo/loan-amortization/
+https://www.investopedia.com/terms/a/amortization.asp
+https://www.youtube.com/watch?v=lKbW88aSwjY
+https://www.codemag.com/Article/2305041/Using-Moq-A-Simple-Guide-to-Mocking-for-.NET
+https://www.c-sharpcorner.com/UploadFile/dacca2/understand-stub-mock-and-fake-in-unit-testing/
+https://dev.to/_cds_/test-with-spy-and-mock-e7
 
 === PHASE 4 ===
+
+https://www.youtube.com/watch?v=8J9QsbJxRJY
+https://www.youtube.com/watch?v=tBnmtdBu7Hs
+https://getsoftwareservice.com/defects-severity-vs-priority/
+https://www.geeksforgeeks.org/software-testing/severity-in-testing-vs-priority-in-testing/
 
 
 === PHASE 5 ===
