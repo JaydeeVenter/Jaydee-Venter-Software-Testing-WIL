@@ -30,3 +30,11 @@ https://www.geeksforgeeks.org/software-testing/severity-in-testing-vs-priority-i
 
 
 === PHASE 5 ===
+
+https://www.computer.org/resources/importance-of-software-testing
+https://www.geeksforgeeks.org/software-engineering/software-development-life-cycle-sdlc/
+https://daily.dev/blog/nunit-vs-xunit-vs-mstest-net-unit-testing-framework-comparison/
+https://learn.microsoft.com/en-us/dotnet/core/testing/unit-testing-mstest-intro
+https://lset.uk/software-testing/the-importance-of-manual-testing-a-comprehensive-beginners-guide/
+https://kms-technology.com/blog/the-importance-of-automated-testing-for-software-development-teams/
+https://medium.com/code4it/why-reaching-100-code-coverage-must-not-be-your-testing-goal-with-examples-in-c-85739f69cc86

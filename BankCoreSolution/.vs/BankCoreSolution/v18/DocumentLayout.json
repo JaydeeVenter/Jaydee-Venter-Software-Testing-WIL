@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Jaydee Venter\\Software Testing Simulation Project (WIL)\\BankCoreSolution\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BED9FB6E-DD53-40D4-9292-C91EDC8A9912}|BankCore.Tests.NUnit\\BankCore.Tests.NUnit.csproj|c:\\users\\jaydee venter\\software testing simulation project (wil)\\bankcoresolution\\bankcore.tests.nunit\\transactionenginenunittests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BED9FB6E-DD53-40D4-9292-C91EDC8A9912}|BankCore.Tests.NUnit\\BankCore.Tests.NUnit.csproj|solutionrelative:bankcore.tests.nunit\\transactionenginenunittests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F814AD71-AE30-447F-845C-01B41002C914}|BankCore.Tests.xUnit\\BankCore.Tests.xUnit.csproj|c:\\users\\jaydee venter\\software testing simulation project (wil)\\bankcoresolution\\bankcore.tests.xunit\\interestcalculatorxunittests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F814AD71-AE30-447F-845C-01B41002C914}|BankCore.Tests.xUnit\\BankCore.Tests.xUnit.csproj|solutionrelative:bankcore.tests.xunit\\interestcalculatorxunittests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BED9FB6E-DD53-40D4-9292-C91EDC8A9912}|BankCore.Tests.NUnit\\BankCore.Tests.NUnit.csproj|c:\\users\\jaydee venter\\software testing simulation project (wil)\\bankcoresolution\\bankcore.tests.nunit\\reportingenginenunittests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BED9FB6E-DD53-40D4-9292-C91EDC8A9912}|BankCore.Tests.NUnit\\BankCore.Tests.NUnit.csproj|solutionrelative:bankcore.tests.nunit\\reportingenginenunittests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,23 +18,40 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c6f34f0d-7ae5-4f3a-be61-fe0c21ae9eb8}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "TransactionEngineNUnitTests.cs",
-              "DocumentMoniker": "C:\\Users\\Jaydee Venter\\Software Testing Simulation Project (WIL)\\BankCoreSolution\\BankCore.Tests.NUnit\\TransactionEngineNUnitTests.cs",
-              "RelativeDocumentMoniker": "BankCore.Tests.NUnit\\TransactionEngineNUnitTests.cs",
-              "ToolTip": "C:\\Users\\Jaydee Venter\\Software Testing Simulation Project (WIL)\\BankCoreSolution\\BankCore.Tests.NUnit\\TransactionEngineNUnitTests.cs",
-              "RelativeToolTip": "BankCore.Tests.NUnit\\TransactionEngineNUnitTests.cs",
-              "ViewState": "AgIAAEwDAAAAAAAAAAAAAHMDAAAkAAAAAAAAAA==",
+              "Title": "InterestCalculatorxUnitTests.cs",
+              "DocumentMoniker": "C:\\Users\\Jaydee Venter\\Software Testing Simulation Project (WIL)\\BankCoreSolution\\BankCore.Tests.xUnit\\InterestCalculatorxUnitTests.cs",
+              "RelativeDocumentMoniker": "BankCore.Tests.xUnit\\InterestCalculatorxUnitTests.cs",
+              "ToolTip": "C:\\Users\\Jaydee Venter\\Software Testing Simulation Project (WIL)\\BankCoreSolution\\BankCore.Tests.xUnit\\InterestCalculatorxUnitTests.cs",
+              "RelativeToolTip": "BankCore.Tests.xUnit\\InterestCalculatorxUnitTests.cs",
+              "ViewState": "AgIAAN8AAAAAAAAAAAAnwPsAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-11T15:44:02.593Z",
+              "WhenOpened": "2026-07-12T18:58:47.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReportingEngineNUnitTests.cs",
+              "DocumentMoniker": "C:\\Users\\Jaydee Venter\\Software Testing Simulation Project (WIL)\\BankCoreSolution\\BankCore.Tests.NUnit\\ReportingEngineNUnitTests.cs",
+              "RelativeDocumentMoniker": "BankCore.Tests.NUnit\\ReportingEngineNUnitTests.cs",
+              "ToolTip": "C:\\Users\\Jaydee Venter\\Software Testing Simulation Project (WIL)\\BankCoreSolution\\BankCore.Tests.NUnit\\ReportingEngineNUnitTests.cs",
+              "RelativeToolTip": "BankCore.Tests.NUnit\\ReportingEngineNUnitTests.cs",
+              "ViewState": "AgIAAOwAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-12T13:33:58.863Z",
               "EditorCaption": ""
             }
           ]
